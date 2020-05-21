@@ -21,7 +21,7 @@ A simple POC project to learn and understand the working of Java JMX, along with
 
 
 
-### MANAGING THE MBEAN
+### MANAGING THE MBean
 ---
 The basics of MBean management are simple:
 
